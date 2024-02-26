@@ -1,11 +1,17 @@
 # 영어회화 회원관리 프로젝트 🔗
 
-Next.js를 활용한 요일 및 레벨별로 리더 및 멤버 현황을 파악하는
+Next.js를 활용한
+
+요일 및 레벨별로 리더 및 멤버 현황을 파악하는
+
 영어회화 회원 관리 프로그램
 
 <!-- ## 🌐 웹 사이트 주소 -->
 
 <!-- [Memberlist]() -->
+
+<br/>
+<br/>
 
 ## 프로젝트 소개
 
@@ -16,6 +22,8 @@ Next.js를 활용한 요일 및 레벨별로 리더 및 멤버 현황을 파악�
 ## ⏰ 제작 기간
 
 February 27, 2024 ~
+
+</br>
 
 ## 시작 가이드
 
@@ -28,7 +36,11 @@ $ npm i
 $ npm run dev
 ```
 
+</br>
+
 ## ⚙️ 개발 환경
+
+</br>
 
 ### Front
 
@@ -39,7 +51,6 @@ $ npm run dev
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=Github&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </p>
@@ -58,12 +69,19 @@ $ npm run dev
 <!-- <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white"/> -->
 </p>
 
+</br>
+
 ## Functions
 
 ✅ 관리자 로그인
+
 ✅ 리더 및 멤버 CRUD
+
 ✅ 검색 (성함, 전화번호)
+
 ✅ 구글 캘린더 연동
+
+</br>
 
 ## 주요 기능
 
@@ -78,6 +96,8 @@ $ npm run dev
 ![image](https://github.com/SesacProjectTeamA-2/pj-front/assets/86273626/3515f133-f7b3-4ecb-9e0b-0eb4d8f44503)
 
 -->
+
+</br>
 
 ## 🗄️ ERD
 
